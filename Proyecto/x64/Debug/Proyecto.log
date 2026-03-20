@@ -1,0 +1,11 @@
+﻿  Proyecto.cpp
+C:\Users\sjare\OneDrive\Escritorio\ProEst\PROYECTO\Proyecto\Header1.h(375,18): warning C4101: 'basura': variable local sin referencia
+C:\Users\sjare\OneDrive\Escritorio\ProEst\PROYECTO\Proyecto\Header1.h(490,18): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\sjare\OneDrive\Escritorio\ProEst\PROYECTO\Proyecto\Header1.h(492,24): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\sjare\OneDrive\Escritorio\ProEst\PROYECTO\Proyecto\Header1.h(494,18): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\sjare\OneDrive\Escritorio\ProEst\PROYECTO\Proyecto\Header1.h(496,27): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\sjare\OneDrive\Escritorio\ProEst\PROYECTO\Proyecto\Header1.h(580,18): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\sjare\OneDrive\Escritorio\ProEst\PROYECTO\Proyecto\Header1.h(582,24): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\sjare\OneDrive\Escritorio\ProEst\PROYECTO\Proyecto\Header1.h(584,18): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\sjare\OneDrive\Escritorio\ProEst\PROYECTO\Proyecto\Header1.h(586,27): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  Proyecto.vcxproj -> C:\Users\sjare\OneDrive\Escritorio\ProEst\PROYECTO\Proyecto\x64\Debug\Proyecto.exe
